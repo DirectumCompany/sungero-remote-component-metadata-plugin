@@ -1,0 +1,9 @@
+{
+  "name": "@sungero/remote-component-metadata-plugin",
+  "version": "1.0.0",
+  "author": "Directum",
+  "license": "MIT",
+  "dependencies": {
+    "@sungero/remote-component-types": "DirectumCompany/sungero-remote-component-types#semver:^1.0.0"
+  }
+}
