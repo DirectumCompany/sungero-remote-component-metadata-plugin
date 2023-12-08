@@ -18,7 +18,7 @@ module.exports = class SungeroRemoteComponentMetadataPlugin {
   }
 
   getHostApiVersion() {
-    const { version } = require(__dirname + '/../remote-component-types/package.json');
+    const { version } = require(__dirname + '/../sungero-remote-component-types/package.json');
     return version;
   }
 
